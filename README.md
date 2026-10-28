@@ -31,7 +31,7 @@ The solar panel generates electrical power. The INA219 sensor measures voltage a
 
 5. Circuit Diagram
 
-The circuit diagram will be added after the wiring is verified.
+The circuit diagram will be added.
 
 6. Block Diagram
 
@@ -41,18 +41,14 @@ Arduino Uno → LEDs and Buzzer
 
 7. Source Code
 
-The Arduino source code will be uploaded after it is prepared and tested
+The Arduino source code will be uploaded.
 
 8. Project Status
 
-Design and development in progress.
-
-9. Future Improvements
-
-- Monitor solar performance over time.
-- Add wireless monitoring.
-- Display historical readings.
+Design and developed.
 
 10. Team Members
-
-Add the names of the project team members here.
+SINDHU K
+SHREYA C
+TEJASWINI HB
+JEEVAN
