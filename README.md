@@ -41,22 +41,18 @@ Arduino Uno → LEDs and Buzzer
 
 7. Source Code
 
-The Arduino source code will be uploaded after it is prepared and tested.
+The Arduino source code will be uploaded after it is prepared and tested
 
-8. Testing and Results
-
-Actual measurements and test results will be added after testing the prototype.
-
-9. Project Status
+8. Project Status
 
 Design and development in progress.
 
-10. Future Improvements
+9. Future Improvements
 
 - Monitor solar performance over time.
 - Add wireless monitoring.
 - Display historical readings.
 
-11. Team Members
+10. Team Members
 
 Add the names of the project team members here.
